@@ -1,0 +1,31 @@
+{
+    "_meta": {
+        "hash": {
+            "sha256": "2df78989db828238759bc42983f2a9f8250b50bedb738cf83e2b7949dee50ffe"
+        },
+        "pipfile-spec": 6,
+        "requires": {
+            "python_full_version": "3.12.3",
+            "python_version": "3.12"
+        },
+        "sources": [
+            {
+                "name": "pypi",
+                "url": "https://pypi.org/simple",
+                "verify_ssl": true
+            }
+        ]
+    },
+    "default": {
+        "pystitch": {
+            "hashes": [
+                "sha256:7c6338d2f8016f0ac3f378b91444927c02b1ce1fa9360d0b9a276b2580a6d9f9",
+                "sha256:dee7cba1f42e8a3dd430e29a788b2137c155ef5de1211ef28f2e78e551c136fd"
+            ],
+            "index": "pypi",
+            "markers": "python_version >= '3.9'",
+            "version": "==1.0.0"
+        }
+    },
+    "develop": {}
+}

@@ -1,0 +1,3 @@
+# Outputs
+**/out/**
+!**/out/.gitkeep

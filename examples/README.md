@@ -16,3 +16,4 @@ You can preview output files in Inkscape with Ink/Stitch installed.
 
 * `python-pystitch-helloworld`: Basic example, a small square
 * `python-pystitch-addblock`: Simplified syntax, multiple squares with color changing
+* `python-pystitch-sierpinski`: Build's Sierpiński arrowhead curve of selected depth

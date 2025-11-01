@@ -7,7 +7,7 @@ This repository accompanies the Hackaday Supercon 2025 talk "Bytes to bobbins: D
 </p>
 
 * [Download PDF slides](https://github.com/kantoniak/bytes-to-bobbins-talk/releases) from the Releases page.
-* [See the demo badge](patch/README.md) made with [Ink/Stitch](https://inkstitch.org/).
-* [See code examples](examples/README.md) written with `pystitch`.
+* [See the demo badge](patch/) made with [Ink/Stitch](https://inkstitch.org/).
+* [See code examples](examples/) written with `pystitch`.
 
 Huge thanks to Spencer, Jad, Cedric and Gab for early feedback!

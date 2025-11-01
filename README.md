@@ -1,5 +1,13 @@
-# Bytes to Bobbins
+# Bytes to bobbins: Driving an embroidery machine
 
-## Examples
+This repository accompanies the Hackaday Supercon 2025 talk "Bytes to bobbins: Driving an embroidery machine".
 
-Go to [examples/README.md](examples/README.md) for instructions.
+<p align="center">
+  <img src="readme/title-slide.jpg" align="center" alt="Printed pedal" />
+</p>
+
+* [Download PDF slides](https://github.com/kantoniak/bytes-to-bobbins-talk/releases) from the Releases page.
+* [See the demo badge](patch/README.md) made with [Ink/Stitch](https://inkstitch.org/).
+* [See code examples](examples/README.md) written with `pystitch`.
+
+Huge thanks to Spencer, Jad, Cedric and Gab for early feedback!

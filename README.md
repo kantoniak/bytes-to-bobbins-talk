@@ -10,6 +10,17 @@ This repository accompanies the Hackaday Supercon 2025 talk "Bytes to bobbins: D
 * [See the demo badge](patch/) made with [Ink/Stitch](https://inkstitch.org/).
 * [See code examples](examples/) written with `pystitch`.
 
+## Notes
+
+Thanks for all the comments and questions over the weekend. I'll keep adding more notes and explanations here as they show up. Follow the repo! 😊
+
+* Download and install [Ink/Stitch shortcuts](https://inkstitch.org/docs/customize/#download-and-import-custom-shortcut-keys) in Inkscape. It's a night and day difference.
+* Run a tension test when trying new combo of materials. [Good explanation here](https://www.youtube.com/watch?v=TDrrf1ooYLw).
+* Even if you use a public access machine, you'll enjoy having personal embroidery scissors (small and angled, like Kai N5100). Mark them "Fabric only".
+* Related projects:
+  * https://github.com/kantoniak/ba-dum-tshirt
+  * https://github.com/kantoniak/sewing-notes
+
 ## Acknowledgements
 
 Huge thanks to Spencer, Jad, Cedric and Gab for early feedback!

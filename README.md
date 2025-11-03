@@ -6,6 +6,7 @@ This repository accompanies the Hackaday Supercon 2025 talk "Bytes to bobbins: D
   <img src="readme/title-slide.jpg" align="center" alt="Printed pedal" />
 </p>
 
+* [See the recording of the talk](https://www.youtube.com/live/xSH5rNtC45o?si=KRD1u0UKxKyr6JHh&t=100) on Hackaday's YT channel.
 * [Download PDF slides](https://github.com/kantoniak/bytes-to-bobbins-talk/releases) from the Releases page.
 * [See the demo badge](patch/) made with [Ink/Stitch](https://inkstitch.org/).
 * [See code examples](examples/) written with `pystitch`.
